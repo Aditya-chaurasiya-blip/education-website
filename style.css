@@ -1,0 +1,148 @@
+h1 {
+  color: red;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: bold;
+  font-weight: lighter and bolder;
+}
+
+.Aditya0 {
+  color: rgb(40, 193, 162);
+}
+body {
+  background-color: pink;
+}
+#list {
+  color: red;
+  border: 2px solid blue;
+  display: inline-block;
+  padding: 34px;
+}
+
+.Prince {
+  color: rgb(33, 5, 41);
+  outline: px solid blue;
+}
+
+div p {
+  color: bisque;
+}
+* {
+  margin: 10px;
+  padding: 2px;
+}
+#Aditya2 {
+  background-color: black;
+  color: brown;
+  border: 10px solid rgba(240, 97, 8, 0.914);
+  width:  529.99px;
+  background-color: aqua;
+  box-shadow: -13px 11px 3px 1px #bbc9b6;
+  text-shadow: 3px 6px 3px #dd104a57;
+}
+a :visited {
+  color: rgb(21, 119, 52);
+}
+a :active {
+  background-color: rgb(181, 9, 95);
+  color: blueviolet;
+}
+a :link {
+  color: chartreuse;
+}
+a :hover {
+  background-color: yellow;
+}
+* {
+  font-style: italic;
+  font-weight: bold;
+}
+/*.ff {
+   font-weight: lighter And bolder;
+   font-weight: inherit;
+   text-decoration: underline;
+   text-align: center;
+  text-transform: lowercase;
+  text-decoration-style: dotted;
+ } */
+
+.ff {
+  font-family: "Ballet", serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+  color: #6d0303;
+  text-decoration-color: red;
+  text-decoration-thickness: 5px;
+  font-variant: initial;
+}
+#Abc {
+  color: rgba(251, 255, 0, 0.582);
+  border: 2px solid rgba(213, 0, 213, 0.488);
+  width: 185.25px;
+  background-color: rgba(208, 30, 116, 0.77);
+  display: flex;
+  justify-content: center;
+}
+#comment {
+  border: 3px solid red;
+  background-color: rgba(249, 73, 102, 0.678);
+  color: rgba(255, 251, 0, 0.704);
+  border-radius: 16px;
+}
+.QWE {
+  border: 2px solid grey;
+  color: rgb(250, 0, 0);
+  background-color: rgba(240, 128, 128, 0.966);
+}
+#XA {
+  width: 115px;
+
+}
+#Desktop {
+  border: 2px solid red;
+  background-color: rgb(203, 54, 54);
+  display: flex;
+  justify-content: center;
+  outline: 2px solid blue;
+  outline-offset: 2px;
+  border-radius: 22px;
+}
+
+#Palmtop {
+  border: 2px solid red;
+  background-color: rgb(203, 54, 54);
+  display: flex;
+  justify-content: center;
+  outline: 2px solid blue;
+  outline-offset: 2px;
+  border-radius: 22px;
+}
+#Laptop {
+  border: 2px solid red;
+  background-color: rgb(203, 54, 54);
+  display: flex;
+  justify-content: center;
+  outline: 2px solid blue;
+  outline-offset: 2px;
+  border-radius: 22px;
+}
+ 
+.LIst{
+  list-style: none;
+  list-style-position: inside;
+  list-style-type: "  ";
+  /*display: flex;
+  padding: 23px;*/
+}
+.box {
+    
+    height: px;
+   width: 22vw;
+   padding: 4px;
+   margin: 4px;
+   border: 5px solid black;
+   background-color: crimson;
+}
